@@ -1,0 +1,35 @@
+Food Ordering System:
+
+About the Project:
+This is a simple Java Food Ordering System developed using
+Object-Oriented Programming.
+
+The main OOP concept used in this project is Encapsulation.
+
+Features:
+- Enter customer details
+- Display food menu
+- Select food item
+- Enter quantity
+- Calculate total price
+- Display order details
+
+OOP Concept:
+Encapsulation is implemented by declaring data members as
+private and accessing them through public methods.
+
+Technologies Used:
+- Java
+- OOP
+- Encapsulation
+
+How to Run:
+1. Compile the Java files.
+2. Run Main.java.
+3. Enter the customer details.
+4. Select a food item.
+5. Enter the quantity.
+6. View the final order details.
+
+ Author-
+Ashritha
